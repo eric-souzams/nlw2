@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Proffy" title="#Proffy" src="public/images/logo.svg" width="250px"/>
+    <img alt="Proffy" title="#Proffy" src="public/images/landing.svg" width="300" style="float:left" />
 </h1>
 
 ## Next Level Week 2
